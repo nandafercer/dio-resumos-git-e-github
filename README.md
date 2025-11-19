@@ -4,7 +4,7 @@
 
 
 
-Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da \[Digital Innovation One](https://www.dio.me/).
+Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
 
 
 
@@ -12,7 +12,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 
 
-- \[Documentação GIT](https://git-scm.com/doc)
+- [Documentação GIT](https://git-scm.com/doc)
 
 
 
@@ -22,7 +22,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | \[Resumos]()|
+| Gravando Alterações no Repositório Local | [Resumos]()|
 
 &nbsp;
 
