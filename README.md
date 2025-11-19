@@ -33,8 +33,7 @@ git init
 ```
 
 
-
-\## 🔍 Referências
+## 🔍 Referências
 
 
 
